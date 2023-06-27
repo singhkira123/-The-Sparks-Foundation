@@ -37,3 +37,8 @@ with basic as well as advanced charts
 
 # Tableau Dashboard link
 covid-19 :- https://public.tableau.com/app/profile/kiran.singh7051/viz/TimelineAnalysisCovid-19_16758618942450/Dashboard5?publish=yes
+
+
+# Tableau Public link
+https://public.tableau.com/app/profile/kiran.singh7051
+
